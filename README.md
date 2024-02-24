@@ -1,4 +1,7 @@
-Simple batch application that kills and restarts explorer, useful for when your pc is acting up.
+Simple batch application that kills and restarts explorer, useful for when your pc is acting up
+
+- restarts explorer super fast
+- applications dont close
 ---
 
 
